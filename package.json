@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Adrian Pearman",
   "license": "MIT",
+  "scripts": {
+    "start": "node server/server.js"
+  },
   "dependencies": {
     "concurrently": "^3.5.1",
     "express": "^4.16.3",
