@@ -1,0 +1,12 @@
+{
+  "name": "hackernews-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adrian Pearman",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.2"
+  }
+}

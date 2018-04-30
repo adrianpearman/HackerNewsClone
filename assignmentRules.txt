@@ -1,0 +1,32 @@
+Hi Adrian,
+
+Brilliant chatting with you Adrian. I was impressed by your past experiences, passion for programming and willingness to learn, and as such, we would like to continue the conversation.
+
+
+The next step in our interview process is an assignment. If you wish to complete it, please see the instructions below:
+Please clone the newsfeed on HackerNews (https://news.ycombinator.com/).
+Please note the following:
+
+
+1) Please use the HackerNews API to load articles - https://github.com/HackerNews/API
+2) No need to re-create the up-voting and/or commenting feature - instead, link to the real hacker news comment page
+3) Do not use jQuery - please use raw vanilla JS. When the user scrolls to the bottom of the page, please load another 30 posts using AJAX (and append them to the bottom of the page)
+4) Make the page mobile responsive, just like HackerNews.
+5) No need to re-create search (at the bottom).
+6) Do not use a table layout - we will be judging you based on your ability to re-create a clean responsive UI. That said, feel free to use Bootstrap and/or Foundation.
+7) Please make the front-end look identical (or as close as possible) to HackerNews (screenshot attached).
+
+Instructions: Please email me (christoph@fintros.com) a live deployed version on Heroku and also kindly send the GitHub the repo too.
+Deadline: If you wish to be considered further, we strongly suggest that you complete the assignment by Saturday, March 31st by 5:00PM EST.
+
+Looking forward,
+
+- Christoph from Fintros
+
+ -----------------------------
+
+ THINGS TO IMPROVE
+ 1) Being able to call the function with window height events instead of the button call on the page
+ 2) Refining the database call to one call instead of two seperate calls
+ 3) Improvements to the sub title component, spefically the undefined errors with data objects with missing key values
+ 4) Improve how the data is loaded on to the page
