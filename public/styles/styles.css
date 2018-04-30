@@ -9,6 +9,7 @@ html{
 }
 
  /* ---- HEADER DETAIL ---- */
+.headerLink,
 .link{
   text-decoration: none;
   color: black;
